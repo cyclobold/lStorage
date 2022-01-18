@@ -1,0 +1,10 @@
+#form-area{
+    padding-top: 15px;
+    position: relative;
+}
+
+#close-btn{
+    position: absolute;
+    right: 5px;
+    top: 15px;
+}
